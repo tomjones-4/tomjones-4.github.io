@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Usage:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Design Decisions:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Challenge:
 
+Credits:
 
-[jekyll-organization]: https://github.com/jekyll
+On the home page, the first photo on the left in the water series is from https://www.tripsavvy.com/top-things-to-do-in-portland-maine-4159538
+The author of this website is Kim Knox Beckius.
+
+The picture to the right/below this one is from https://greentreemaine.com/new-portland-maine-area-looking-play-tourist/ubgpbzm/
+The author of this website is Veronica Schneider.
+
+Upon clicking "More from collection" under water series, the first photo is from http://portlandpicture.com/portland-aerial-photography/
+The author of this website is Jake Goodson.
+
+The text on this website is taken from https://www.thenatureofcities.com/2018/07/14/artists-conversation-water/
+The author of this website is Patrick M Lydon.
