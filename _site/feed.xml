@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-04T19:45:06-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bobby Woba Art</title><subtitle>Freelance artist. Realism, surrealism, everything in between. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">City</title><link href="http://localhost:4000/2019/03/04/city.html" rel="alternate" type="text/html" title="City" /><published>2019-03-04T00:00:00-05:00</published><updated>2019-03-04T00:00:00-05:00</updated><id>http://localhost:4000/2019/03/04/city</id><content type="html" xml:base="http://localhost:4000/2019/03/04/city.html">&lt;!doctype html&gt;
 &lt;html&gt;
   &lt;head&gt;
@@ -23,6 +24,9 @@
 &lt;/center&gt;
   &lt;/body&gt;
 &lt;/html&gt;</content><author><name></name></author><summary type="html">City series</summary></entry><entry><title type="html">Faq</title><link href="http://localhost:4000/2019/03/04/faq.html" rel="alternate" type="text/html" title="Faq" /><published>2019-03-04T00:00:00-05:00</published><updated>2019-03-04T00:00:00-05:00</updated><id>http://localhost:4000/2019/03/04/faq</id><content type="html" xml:base="http://localhost:4000/2019/03/04/faq.html">&lt;!doctype html&gt;
+=======
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-04T11:01:08-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bobby Woba Art</title><subtitle>Freelance artist. Realism, surrealism, everything in between. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Faq</title><link href="http://localhost:4000/2019/03/04/faq.html" rel="alternate" type="text/html" title="Faq" /><published>2019-03-04T00:00:00-05:00</published><updated>2019-03-04T00:00:00-05:00</updated><id>http://localhost:4000/2019/03/04/faq</id><content type="html" xml:base="http://localhost:4000/2019/03/04/faq.html">&lt;!doctype html&gt;
+>>>>>>> 50a1e03fcf4d707b2bbb3e3d3c9437c8388ca80b
 &lt;html&gt;
   &lt;head&gt;
     &lt;meta charset=&quot;utf-8&quot;&gt;
